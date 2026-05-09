@@ -1,0 +1,16 @@
+# Captures & raw data
+*.pcap
+*.cap
+*.csv
+*.tar.gz
+*.zip
+*.img
+*.bin
+
+# Runtime dirs
+tmp/
+data/logs/
+data/captures/
+
+# Sensitive
+env.md
