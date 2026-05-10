@@ -1,0 +1,27 @@
+{
+  "collected": "2026-05-09",
+  "method": "UPnP SOAP (port 1900)",
+  "device": {
+    "model": "EC220-G5",
+    "hardware_version": "2.0",
+    "manufacturer": "TP-Link",
+    "description": "AC1200 Wireless Dual Band Gigabit Router",
+    "uuid": "9f0865b3-f5da-4ad5-85b7-7404637fdf37"
+  },
+  "wan": {
+    "connection_type": "IP_Routed",
+    "connection_status": "Connected",
+    "physical_link": "Up",
+    "access_type": "Cable",
+    "external_ip": "[скрыт — WAN IP провайдера]",
+    "cgnat": true,
+    "last_error": "ERROR_NONE",
+    "uptime_sec": 326734856
+  },
+  "traffic": {
+    "bytes_sent": 304150652,
+    "bytes_received": 697709869
+  },
+  "port_mappings": [],
+  "notes": "Port 80 (web UI) inaccessible — ISP firmware blocks it. Telnet (23) open but restricted to normal mode only."
+}
